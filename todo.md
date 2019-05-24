@@ -1,0 +1,2 @@
+- Modulate the data source, maybe use enumerators?
+- Add more methods to presist data 
